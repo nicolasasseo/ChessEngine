@@ -1,0 +1,3 @@
+/home/nicow/chess_proj/build/CMakeFiles/chessbin.dir
+/home/nicow/chess_proj/build/CMakeFiles/edit_cache.dir
+/home/nicow/chess_proj/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/main.cpp.o -c /home/nicow/chess_proj/main.cpp",
+  "file": "/home/nicow/chess_proj/main.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/initialize.cpp.o -c /home/nicow/chess_proj/initialize.cpp",
+  "file": "/home/nicow/chess_proj/initialize.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/piece.cpp.o -c /home/nicow/chess_proj/piece.cpp",
+  "file": "/home/nicow/chess_proj/piece.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/print.cpp.o -c /home/nicow/chess_proj/print.cpp",
+  "file": "/home/nicow/chess_proj/print.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/moves.cpp.o -c /home/nicow/chess_proj/moves.cpp",
+  "file": "/home/nicow/chess_proj/moves.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/eval.cpp.o -c /home/nicow/chess_proj/eval.cpp",
+  "file": "/home/nicow/chess_proj/eval.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/eval_helper.cpp.o -c /home/nicow/chess_proj/eval_helper.cpp",
+  "file": "/home/nicow/chess_proj/eval_helper.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/tree.cpp.o -c /home/nicow/chess_proj/tree.cpp",
+  "file": "/home/nicow/chess_proj/tree.cpp"
+},
+{
+  "directory": "/home/nicow/chess_proj/build",
+  "command": "/usr/bin/g++  -I/home/nicow/chess_proj/. -g -std=gnu++20 -o CMakeFiles/chessbin.dir/legal_moves.cpp.o -c /home/nicow/chess_proj/legal_moves.cpp",
+  "file": "/home/nicow/chess_proj/legal_moves.cpp"
+}
+]
